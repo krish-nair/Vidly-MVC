@@ -99,3 +99,5 @@ E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.GenerateRe
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddCustomerModel.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddMovieModel.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojResolveAssemblyReference.cache
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddIsSubscribedToNewsletter.resources
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddMembershipType.resources
