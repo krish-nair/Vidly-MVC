@@ -91,7 +91,6 @@ E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.DependencyCollector.
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.WindowsServer.xml
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.Web.xml
-E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojResolveAssemblyReference.cache
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.CoreCompileInputs.cache
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.dll
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.pdb
