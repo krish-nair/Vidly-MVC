@@ -103,3 +103,5 @@ E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddMem
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.PopulateMembershipTypes.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddNameToMembershipType.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.PopulateNameInMembershipType.resources
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojResolveAssemblyReference.cache
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddBirthDateToCustomer.resources
