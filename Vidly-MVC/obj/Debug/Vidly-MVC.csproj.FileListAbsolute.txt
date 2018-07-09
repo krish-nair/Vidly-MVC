@@ -95,3 +95,5 @@ E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojResolveAsse
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.CoreCompileInputs.cache
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.dll
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.pdb
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.InitialModel.resources
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.GenerateResource.Cache
