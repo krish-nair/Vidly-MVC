@@ -241,6 +241,14 @@
     <Compile Include="Migrations\201807100128565_AddSomePropertiesInMoviesModel.Designer.cs">
       <DependentUpon>201807100128565_AddSomePropertiesInMoviesModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807100141463_PopulateGenreModel.cs" />
+    <Compile Include="Migrations\201807100141463_PopulateGenreModel.Designer.cs">
+      <DependentUpon>201807100141463_PopulateGenreModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807100403431_AddAnnotationToCustomerModel.cs" />
+    <Compile Include="Migrations\201807100403431_AddAnnotationToCustomerModel.Designer.cs">
+      <DependentUpon>201807100403431_AddAnnotationToCustomerModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -251,6 +259,7 @@
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\NewCustomerViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-lumen.css" />
@@ -314,6 +323,8 @@
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
+    <Content Include="Views\Customers\New.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -364,6 +375,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201807100128565_AddSomePropertiesInMoviesModel.resx">
       <DependentUpon>201807100128565_AddSomePropertiesInMoviesModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807100141463_PopulateGenreModel.resx">
+      <DependentUpon>201807100141463_PopulateGenreModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807100403431_AddAnnotationToCustomerModel.resx">
+      <DependentUpon>201807100403431_AddAnnotationToCustomerModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
