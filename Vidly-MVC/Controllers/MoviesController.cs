@@ -26,11 +26,11 @@ namespace Vidly_MVC.Controllers
         public ActionResult New()
         {
             var genres = _context.Genres.ToList();
-            var viewModel = new NewMovieViewModel
+            var viewModel = new MovieFormViewModel
             {
                 Genres = genres
             };
-            return View(viewModel);
+            return View("MovieForm", viewModel);
         }
 
         [HttpPost]
@@ -61,6 +61,21 @@ namespace Vidly_MVC.Controllers
         public ActionResult Save()
         {
             throw new System.NotImplementedException();
+        }
+
+        public ActionResult Edit(int id)
+        {
+            var movie = _context.Movies.SingleOrDefault(m => m.Id == id);
+            if (movie == null)
+                return HttpNotFound();
+
+            var viewModel = new MovieFormViewModel
+            {
+                Movie = movie,
+                Genres = _context.Genres.ToList()
+            };
+
+            return View("MovieForm", viewModel);
         }
     }
 }

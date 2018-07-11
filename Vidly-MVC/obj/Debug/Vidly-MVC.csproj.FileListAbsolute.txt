@@ -111,3 +111,4 @@ E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojResolveAsse
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddAnnotationToCustomerModel.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddAnnotationsToMovieModel.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.EditAnnotationsToMovieModel.resources
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddGetTitleLogicToMovieViewModel.resources
