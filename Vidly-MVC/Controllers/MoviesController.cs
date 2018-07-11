@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Configuration;
 using System.Web.Mvc;
 using Vidly_MVC.Models;
+using Vidly_MVC.ViewModels;
 
 namespace Vidly_MVC.Controllers
 {
@@ -22,6 +23,16 @@ namespace Vidly_MVC.Controllers
             _context.Dispose();
         }
 
+        public ActionResult New()
+        {
+            var genres = _context.Genres.ToList();
+            var viewModel = new NewMovieViewModel
+            {
+                Genres = genres
+            };
+            return View(viewModel);
+        }
+
         // GET: Movies
         public ActionResult Index()
         {
@@ -37,6 +48,11 @@ namespace Vidly_MVC.Controllers
                 return HttpNotFound();
             }
             return View(movie);
+        }
+
+        public ActionResult Save()
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
