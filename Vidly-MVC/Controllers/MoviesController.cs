@@ -33,6 +33,14 @@ namespace Vidly_MVC.Controllers
             return View(viewModel);
         }
 
+        [HttpPost]
+        public ActionResult Create(Movie movie)
+        {
+            _context.Movies.Add(movie);
+
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Movies");
+        }
         // GET: Movies
         public ActionResult Index()
         {
