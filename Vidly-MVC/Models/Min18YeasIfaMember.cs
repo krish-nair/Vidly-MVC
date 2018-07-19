@@ -11,7 +11,8 @@ namespace Vidly_MVC.Models
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
             var cusomer = (Customer)validationContext.ObjectInstance;
-            if (cusomer.MembershipTypeId == 0 || cusomer.MembershipTypeId == 1)
+            if (cusomer.MembershipTypeId == MembershipType.Unknown
+                || cusomer.MembershipTypeId == MembershipType.PayAsYouGo)
                 return ValidationResult.Success;
             if (cusomer.BirthDate == null)
                 return new ValidationResult("Birthdate is required.");
