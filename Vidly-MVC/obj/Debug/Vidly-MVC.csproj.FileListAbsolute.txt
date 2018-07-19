@@ -112,3 +112,5 @@ E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddAnn
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddAnnotationsToMovieModel.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.EditAnnotationsToMovieModel.resources
 E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddGetTitleLogicToMovieViewModel.resources
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddAnnotationInNamePropertyInCustomerModel.resources
+E:\ASP.Net\MVCProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.Is18YearOldModel.resources

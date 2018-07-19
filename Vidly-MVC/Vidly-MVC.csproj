@@ -261,8 +261,17 @@
     <Compile Include="Migrations\201807110647511_AddGetTitleLogicToMovieViewModel.Designer.cs">
       <DependentUpon>201807110647511_AddGetTitleLogicToMovieViewModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807130134565_AddAnnotationInNamePropertyInCustomerModel.cs" />
+    <Compile Include="Migrations\201807130134565_AddAnnotationInNamePropertyInCustomerModel.Designer.cs">
+      <DependentUpon>201807130134565_AddAnnotationInNamePropertyInCustomerModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807192138094_Is18YearOldModel.cs" />
+    <Compile Include="Migrations\201807192138094_Is18YearOldModel.Designer.cs">
+      <DependentUpon>201807192138094_Is18YearOldModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Min18YeasIfaMember.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -404,6 +413,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201807110647511_AddGetTitleLogicToMovieViewModel.resx">
       <DependentUpon>201807110647511_AddGetTitleLogicToMovieViewModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807130134565_AddAnnotationInNamePropertyInCustomerModel.resx">
+      <DependentUpon>201807130134565_AddAnnotationInNamePropertyInCustomerModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807192138094_Is18YearOldModel.resx">
+      <DependentUpon>201807192138094_Is18YearOldModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
