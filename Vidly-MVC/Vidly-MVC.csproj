@@ -269,6 +269,10 @@
     <Compile Include="Migrations\201807192138094_Is18YearOldModel.Designer.cs">
       <DependentUpon>201807192138094_Is18YearOldModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807200224513_AddRangeAnnotationToMoviesModel.cs" />
+    <Compile Include="Migrations\201807200224513_AddRangeAnnotationToMoviesModel.Designer.cs">
+      <DependentUpon>201807200224513_AddRangeAnnotationToMoviesModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Min18YeasIfaMember.cs" />
@@ -419,6 +423,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201807192138094_Is18YearOldModel.resx">
       <DependentUpon>201807192138094_Is18YearOldModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807200224513_AddRangeAnnotationToMoviesModel.resx">
+      <DependentUpon>201807200224513_AddRangeAnnotationToMoviesModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
