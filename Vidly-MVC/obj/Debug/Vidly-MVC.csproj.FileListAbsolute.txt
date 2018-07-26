@@ -240,3 +240,5 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Net.Http.Formatting.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Web.Http.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Web.Http.WebHost.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddCustomerDto.resources
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\AutoMapper.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\AutoMapper.xml
