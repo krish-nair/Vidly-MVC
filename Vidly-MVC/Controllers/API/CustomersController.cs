@@ -46,7 +46,7 @@ namespace Vidly_MVC.Controllers.API
 
         //PUT /api/customers/1
         [HttpPut]
-        public void UpdateCustomer(int id, Customer customer)
+        public Customer UpdateCustomer(int id, Customer customer)
         {
             if (!ModelState.IsValid)
                 throw new HttpResponseException(HttpStatusCode.BadRequest);
@@ -60,6 +60,7 @@ namespace Vidly_MVC.Controllers.API
             customerInDb.IsSubscribedToNewsLetter = customer.IsSubscribedToNewsLetter;
 
             _context.SaveChanges();
+            return customerInDb;
         }
 
         //Delete /api/customers/1

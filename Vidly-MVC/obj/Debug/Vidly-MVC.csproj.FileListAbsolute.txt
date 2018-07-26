@@ -233,3 +233,10 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.CoreCompileI
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.pdb
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddMoviePropertiesInViewModel.resources
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Net.Http.Formatting.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Web.Http.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Web.Http.WebHost.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Net.Http.Formatting.xml
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Web.Http.xml
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\System.Web.Http.WebHost.xml
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddCustomerDto.resources
