@@ -208,7 +208,6 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.DependencyCollector.xm
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.WindowsServer.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AI.Web.xml
-E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojResolveAssemblyReference.cache
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.InitialModel.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddCustomerModel.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddMovieModel.resources
