@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Data.Entity;
 using System.Net.Http;
 using System.Web.Http;
 using AutoMapper;
@@ -19,12 +20,16 @@ namespace Vidly_MVC.Controllers.API
             _context = new ApplicationDbContext();
         }
         //Get /api/customers
-        public IEnumerable<CustomerDto> GetCustomers()
+        public IHttpActionResult GetCustomers()
         {
-           return _context.Customer.ToList().Select(Mapper.Map<Customer, CustomerDto>);
+            var customerDtos = _context.Customer
+                .Include(c => c.MembershipType)
+                .ToList()
+                .Select(Mapper.Map<Customer, CustomerDto>);
+            return Ok(customerDtos);
         }
 
-        //Get /customers/1
+        //Get api/customers/1
         public IHttpActionResult GetCustomer(int id)
         {
             var customer = _context.Customer.SingleOrDefault(c => c.Id == id);
