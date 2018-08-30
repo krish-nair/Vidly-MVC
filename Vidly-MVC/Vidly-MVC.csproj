@@ -305,6 +305,10 @@
     <Compile Include="Migrations\201808300711168_SeedUsers.Designer.cs">
       <DependentUpon>201808300711168_SeedUsers.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201808301835127_AddDrivingLicenseToApplicationUser.cs" />
+    <Compile Include="Migrations\201808301835127_AddDrivingLicenseToApplicationUser.Designer.cs">
+      <DependentUpon>201808301835127_AddDrivingLicenseToApplicationUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Min18YeasIfaMember.cs" />
@@ -644,6 +648,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201808300711168_SeedUsers.resx">
       <DependentUpon>201808300711168_SeedUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808301835127_AddDrivingLicenseToApplicationUser.resx">
+      <DependentUpon>201808301835127_AddDrivingLicenseToApplicationUser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
