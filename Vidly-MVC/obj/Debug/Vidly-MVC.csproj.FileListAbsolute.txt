@@ -243,3 +243,4 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\AutoMapper.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\AutoMapper.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.CopyComplete
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojAssemblyReference.cache
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.SeedUsers.resources
