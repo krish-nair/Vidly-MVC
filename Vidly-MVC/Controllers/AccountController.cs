@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Vidly_MVC.ViewModels;
+using System;
 using System.Globalization;
 using System.Linq;
 using System.Security.Claims;
@@ -148,7 +149,7 @@ namespace Vidly_MVC.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Register(RegisterViewModel model)
+        public async Task<ActionResult> Register(ViewModels.RegisterViewModel model)
         {
             if (ModelState.IsValid)
             {
@@ -357,7 +358,7 @@ namespace Vidly_MVC.Controllers
                     // If the user does not have an account, then prompt the user to create an account
                     ViewBag.ReturnUrl = returnUrl;
                     ViewBag.LoginProvider = loginInfo.Login.LoginProvider;
-                    return View("ExternalLoginConfirmation", new ExternalLoginConfirmationViewModel { Email = loginInfo.Email });
+                    return View("ExternalLoginConfirmation", new ViewModels.ExternalLoginConfirmationViewModel { Email = loginInfo.Email });
             }
         }
 
@@ -366,7 +367,7 @@ namespace Vidly_MVC.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> ExternalLoginConfirmation(ExternalLoginConfirmationViewModel model, string returnUrl)
+        public async Task<ActionResult> ExternalLoginConfirmation(ViewModels.ExternalLoginConfirmationViewModel model, string returnUrl)
         {
             if (User.Identity.IsAuthenticated)
             {
