@@ -246,3 +246,9 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.SeedUser
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddDrivingLicenseToApplicationUser.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddPhoneNumberToApplicationUser.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojAssemblyReference.cache
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Owin.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Owin.xml
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
