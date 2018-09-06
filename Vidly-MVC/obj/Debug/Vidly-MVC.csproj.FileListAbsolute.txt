@@ -245,7 +245,6 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csproj.CopyComplete
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.SeedUsers.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddDrivingLicenseToApplicationUser.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddPhoneNumberToApplicationUser.resources
-E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojAssemblyReference.cache
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Core.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Owin.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
@@ -259,3 +258,4 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.EF6.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.Mvc5.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddRentalToModels.resources
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddNumberAvailableFieldInMovieClass.resources
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojAssemblyReference.cache

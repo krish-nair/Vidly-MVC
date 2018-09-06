@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -29,6 +30,8 @@ namespace Vidly_MVC.Controllers.API
 
             foreach (var movie in movies)
             {
+                if (movie.NumberAvailable == 0)
+                    return BadRequest("Movie is not available");
                 movie.NumberAvailable--;
                 var rental = new Rental
                 {
