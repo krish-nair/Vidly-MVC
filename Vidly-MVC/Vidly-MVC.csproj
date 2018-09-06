@@ -336,6 +336,10 @@
     <Compile Include="Migrations\201809060110518_AddRentalToModels.Designer.cs">
       <DependentUpon>201809060110518_AddRentalToModels.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201809060723264_AddNumberAvailableFieldInMovieClass.cs" />
+    <Compile Include="Migrations\201809060723264_AddNumberAvailableFieldInMovieClass.Designer.cs">
+      <DependentUpon>201809060723264_AddNumberAvailableFieldInMovieClass.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Min18YeasIfaMember.cs" />
@@ -685,6 +689,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201809060110518_AddRentalToModels.resx">
       <DependentUpon>201809060110518_AddRentalToModels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809060723264_AddNumberAvailableFieldInMovieClass.resx">
+      <DependentUpon>201809060723264_AddNumberAvailableFieldInMovieClass.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

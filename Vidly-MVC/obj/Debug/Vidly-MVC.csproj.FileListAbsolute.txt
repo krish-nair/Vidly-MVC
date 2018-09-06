@@ -258,3 +258,4 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.Core.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.EF6.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.Mvc5.dll
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddRentalToModels.resources
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddNumberAvailableFieldInMovieClass.resources
