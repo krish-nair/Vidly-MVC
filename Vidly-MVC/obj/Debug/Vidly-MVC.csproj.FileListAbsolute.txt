@@ -252,3 +252,9 @@ E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Core.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.Owin.xml
 E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.Ado.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.AspNet.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.Core.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.EF6.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\bin\Glimpse.Mvc5.dll
+E:\ASP.Net\Vidly-MVC\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddRentalToModels.resources
