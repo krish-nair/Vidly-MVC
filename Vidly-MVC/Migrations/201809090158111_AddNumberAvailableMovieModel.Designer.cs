@@ -7,13 +7,13 @@ namespace Vidly_MVC.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class AddNumberAvailableFieldInMovieClass : IMigrationMetadata
+    public sealed partial class AddNumberAvailableMovieModel : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(AddNumberAvailableFieldInMovieClass));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(AddNumberAvailableMovieModel));
         
         string IMigrationMetadata.Id
         {
-            get { return "201809060723264_AddNumberAvailableFieldInMovieClass"; }
+            get { return "201809090158111_AddNumberAvailableMovieModel"; }
         }
         
         string IMigrationMetadata.Source
