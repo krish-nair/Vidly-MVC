@@ -49,12 +49,12 @@
 				minLength: 3,
 				highlight: true
 			}, {
-				name: 'customers',
-				display: 'name',
-				source: customers
-			}).on("typeahead:select", function(e, customer) {
-				vm.customerId = customer.id;
-			});
+					name: 'customers',
+					display: 'name',
+					source: customers
+				}).on("typeahead:select", function (e, customer) {
+					vm.customerId = customer.id;
+				});
 
 			var movies = new Bloodhound({
 				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
@@ -68,31 +68,31 @@
 				minLength: 3,
 				highlight: true
 			}, {
-				name: 'movies',
-				display: 'name',
-				source: movies
-			}).on("typeahead:select", function (e, movie) {
-				$("#movies").append("<li class='list-group-item'>" + movie.name + "</li>");
+					name: 'movies',
+					display: 'name',
+					source: movies
+				}).on("typeahead:select", function (e, movie) {
+					$("#movies").append("<li class='list-group-item'>" + movie.name + "</li>");
 
-				$("#movie").typeahead("val", "");
+					$("#movie").typeahead("val", "");
 
-				vm.movieIds.push(movie.id);
-			});
+					vm.movieIds.push(movie.id);
+				});
 
-			$("#newRental").submit(function(e) {
+			$("#newRental").submit(function (e) {
 				e.preventDefault();
 
-					$.ajax({
-						url: "/api/newRentals",
-						method: "post",
-						data: vm
+				$.ajax({
+					url: "/api/newRentals",
+					method: "post",
+					data: vm
 				})
-				.done(function() {
-					console.log("done");
-				})
-				.fail(function() {
-
-				});
+					.done(function () {
+						toastr.success("Rental successful recorded.");
+					})
+					.fail(function () {
+						toastr.error("Something unexpected happened");
+					});
 			});
 		});
 	</script>
