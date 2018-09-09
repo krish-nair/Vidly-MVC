@@ -371,7 +371,6 @@ E:\myProjects\Vidly-MVC\Vidly-MVC\bin\System.Web.WebPages.xml
 E:\myProjects\Vidly-MVC\Vidly-MVC\bin\System.Web.WebPages.Deployment.xml
 E:\myProjects\Vidly-MVC\Vidly-MVC\bin\System.Web.WebPages.Razor.xml
 E:\myProjects\Vidly-MVC\Vidly-MVC\bin\System.Web.Optimization.xml
-E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojAssemblyReference.cache
 E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.InitialModel.resources
 E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddCustomerModel.resources
 E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddMovieModel.resources
