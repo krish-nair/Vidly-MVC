@@ -403,3 +403,4 @@ E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.dll
 E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.pdb
 E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly_MVC.Migrations.AddNumberAvailableMovieModel.resources
 E:\myProjects\Vidly-MVC\Vidly-MVC\obj\Debug\Vidly-MVC.csprojAssemblyReference.cache
+E:\myProjects\Vidly-MVC\Vidly-MVC\bin\Elmah.dll
